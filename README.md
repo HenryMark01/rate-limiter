@@ -51,4 +51,4 @@ This project demonstrates the implementation and deployment of a **Fixed Window 
 ## 💻 How to Test
 
 Use `curl` or a browser to access the endpoint:
-![](./rate-limiter testing.png)
+![](./rate-limiter-testing.png)
