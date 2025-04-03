@@ -40,10 +40,10 @@ This project demonstrates the implementation and deployment of a **Fixed Window 
 
 ## 📂 Files Included
 
-- `app.py` – Flask application with Fixed Window Rate Limiter
+- `rate-limiter.py` – Flask application with Fixed Window Rate Limiter
 - `Dockerfile` – Docker instructions to containerize the app
 - `requirements.txt` – Python dependencies
-- `rate_limiter.yaml` – Kubernetes Deployment and Service (NodePort)
+- `rate-limiter.yaml` – Kubernetes Deployment and Service (NodePort)
 - `README.md` – Project documentation
 
 ---
