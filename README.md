@@ -34,7 +34,7 @@ This project demonstrates the implementation and deployment of a **Fixed Window 
 
 8. **Functionality Testing**
    - Verified the working of the rate limiter by making multiple requests.
-   - Attached screenshots as evidence of rate-limiting in action.
+   - Attached screenshot as evidence of rate-limiting in action.
 
 ---
 
