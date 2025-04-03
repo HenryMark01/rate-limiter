@@ -1,7 +1,7 @@
 # 🚦 Fixed Window Rate Limiter
 ## 📘 Overview
 
-This project demonstrates the implementation and deployment of a **Fixed Window Rate Limiter** using Python Flask, Docker, and Kubernetes on an AWS EC2 instance. The service is publicly accessible using a Kubernetes `NodePort`.
+This project demonstrates the implementation and deployment of a **Fixed Window Rate Limiter** using Python Flask, Docker, and Kubernetes on an AWS EC2 instance. The service is publicly accessible using a Kubernetes NodePort.
 
 ---
 
